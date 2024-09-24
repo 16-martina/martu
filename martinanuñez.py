@@ -1,1 +1,2 @@
-chau 
+chau ="calle"
+print(chau)
